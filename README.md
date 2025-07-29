@@ -35,6 +35,8 @@ Hi, I'm a software engineer with a strong focus on backend systems, architecture
 
 ###
 
+<!-- ###
+
 <img src="https://raw.githubusercontent.com/b45/b45/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
